@@ -174,7 +174,16 @@ If you do not agree with the updated Terms, your remedy is to stop using the app
 
 ---
 
-## 14. Contact
+## 14. Third-Party Content and Attributions
+
+Some example sentences shown in the app may be sourced from **Tatoeba.org** when available. Tatoeba textual sentences are licensed under the **Creative Commons Attribution 2.0 France license (CC-BY 2.0 FR)**. ChainLearn uses them with attribution and otherwise falls back to model-generated examples.
+
+For the full text of the CC-BY 2.0 FR license, see:
+https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+---
+
+## 15. Contact
 
 For any question about these Terms:
 
